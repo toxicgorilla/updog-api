@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "UpDog.Api.Api": {
+      "commandName": "Project"
+    }
+  }
+}
